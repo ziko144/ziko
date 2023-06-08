@@ -1,0 +1,2 @@
+# ziko
+Global page
